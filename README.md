@@ -2,3 +2,4 @@
 Projeto da matéria de IWI, sendo um quiz sobre TypeScript, NestJs e React 
 
 Nomes: Ana, Juliana e Mariana
+2°F
